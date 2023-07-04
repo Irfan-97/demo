@@ -1,2 +1,2 @@
-console.log("hi this is my first git");
-console.log("hi this is my second git");
+console.log("hey this is my first git");
+console.log("hey this is my second git");
