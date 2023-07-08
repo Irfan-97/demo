@@ -1,3 +1,3 @@
-Hey this is my first git tutorial.
+Hey this is my first git tutorial. it is good thing to learn...
 software development methodologies.
 it is a pretty interesting subject.
